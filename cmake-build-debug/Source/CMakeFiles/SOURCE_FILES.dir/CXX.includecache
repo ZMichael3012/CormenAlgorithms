@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Headers/Sorts.h
+
+C:/Users/MichaelZ/CLionProjects/CormenAlgorithms/Source/Sorts.cpp
+Sorts.h
+C:/Users/MichaelZ/CLionProjects/CormenAlgorithms/Source/Sorts.h
+cstdlib
+-
+ctime
+-
+iostream
+-
+
