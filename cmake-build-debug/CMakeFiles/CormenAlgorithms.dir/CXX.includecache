@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Headers/Sorts.h
+
+C:/Users/MichaelZ/CLionProjects/CormenAlgorithms/Source/main.cpp
+iostream
+-
+Sorts.h
+C:/Users/MichaelZ/CLionProjects/CormenAlgorithms/Source/Sorts.h
+
